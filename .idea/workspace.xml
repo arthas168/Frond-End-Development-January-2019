@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c2b2233-03d8-4083-a1ec-759fcfa23983" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lecture02/L2_07_Clean-up-Wiki-Elephant/Requirements-and-Resources/screenshot.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lecture02/L2_07_Clean-up-Wiki-Elephant/Requirements-and-Resources/source-file.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11">
+              <caret line="1209" lean-forward="true" selection-start-line="975" selection-start-column="18" selection-end-line="1209" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lecture02/L2_07_Clean-up-Wiki-Elephant/Requirements-and-Resources/Requirements.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lecture02/L2_07_Clean-up-Wiki-Elephant/Solution/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4743">
+              <caret line="279" column="4" lean-forward="true" selection-start-line="279" selection-start-column="4" selection-end-line="279" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lecture02/L2_08_Clean-up-Wiki-Bulgaria/Requirements-and-Resources/screenshot.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lecture02/L2_06_Clean-up-Magazine/Solution/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4998">
+              <caret line="294" lean-forward="true" selection-start-line="294" selection-end-line="294" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lecture02/L2_08_Clean-up-Wiki-Bulgaria/Requirements-and-Resources/Requirements.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lecture02/L2_08_Clean-up-Wiki-Bulgaria/Solution/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="833">
+              <caret line="94" selection-start-line="94" selection-end-line="94" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lecture02/L2_08_Clean-up-Wiki-Bulgaria/Requirements-and-Resources/source-file.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-845">
+              <caret line="251" selection-start-line="251" selection-end-line="311" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lecture02/L2_05_Clean-up-Baby-Magazine/Solution/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="5" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>''</find>
+      <find>&lt;/div&gt;</find>
+      <find>&lt;div&gt;</find>
+      <find>div</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>''</replace>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Lecture01/L1_01_Simple-HTML-Page/Solution/index.html" />
+        <option value="$PROJECT_DIR$/Lecture01/L1_02_TagsCardio-Paragraphs/Solution/index.html" />
+        <option value="$PROJECT_DIR$/Lecture01/L1_03_Single-Article-Page/Solution/index.html" />
+        <option value="$PROJECT_DIR$/Lecture01/L1_04_TagsCardio-Lists/Solution/index.html" />
+        <option value="$PROJECT_DIR$/Lecture01/L1_05_TagsCardio-Nested-Lists/Solution/index.html" />
+        <option value="$PROJECT_DIR$/Lecture01/L1_06_TagsCardio-Table/Solution/index.html" />
+        <option value="$PROJECT_DIR$/Lecture01/L1_07_TagsCardio-DataTable/Solution/index.html" />
+        <option value="$PROJECT_DIR$/Lecture01/L1_08_TagsCardio-Forms/Requirements-and-Resources/Requirements.md" />
+        <option value="$PROJECT_DIR$/Lecture01/L1_08_TagsCardio-Forms/Solution/index.html" />
+        <option value="$PROJECT_DIR$/Lecture02/L2_01_Semantic-Tags/Solution/index.html" />
+        <option value="$PROJECT_DIR$/Lecture02/L2_02_Semantic-Article-Page/Requirements-and-Resources/text.txt" />
+        <option value="$PROJECT_DIR$/Lecture02/L2_02_Semantic-Article-Page/Solution/index.html" />
+        <option value="$PROJECT_DIR$/Lecture02/L2_03_Semantic-Blog-Layout/Solution/Semantic Blog Layout.html" />
+        <option value="$PROJECT_DIR$/Lecture02/L2_03_Semantic-Blog-Layout/Solution/index.html" />
+        <option value="$PROJECT_DIR$/Lecture02/L2_04_Semantic-Tables/Solution/index.html" />
+        <option value="$PROJECT_DIR$/Lecture02/L2_05_Clean-up-Baby-Magazine/Solution/index.html" />
+        <option value="$PROJECT_DIR$/Lecture02/L2_06_Clean-up-Magazine/Solution/index.html" />
+        <option value="$PROJECT_DIR$/Lecture02/L2_07_Clean-up-Wiki-Elephant/Solution/index.html" />
+        <option value="$PROJECT_DIR$/Lecture02/L2_08_Clean-up-Wiki-Bulgaria/Solution/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="577" />
+    <option name="y" value="30" />
+    <option name="width" value="753" />
+    <option name="height" value="738" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Front-End-Dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Front-End-Dev" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Front-End-Dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Front-End-Dev" type="462c0819:PsiDirectoryNode" />
+              <item name="Lecture02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Front-End-Dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Front-End-Dev" type="462c0819:PsiDirectoryNode" />
+              <item name="Lecture02" type="462c0819:PsiDirectoryNode" />
+              <item name="L2_08_Clean-up-Wiki-Bulgaria" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Front-End-Dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Front-End-Dev" type="462c0819:PsiDirectoryNode" />
+              <item name="Lecture02" type="462c0819:PsiDirectoryNode" />
+              <item name="L2_08_Clean-up-Wiki-Bulgaria" type="462c0819:PsiDirectoryNode" />
+              <item name="Requirements-and-Resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Front-End-Dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Front-End-Dev" type="462c0819:PsiDirectoryNode" />
+              <item name="Lecture02" type="462c0819:PsiDirectoryNode" />
+              <item name="L2_08_Clean-up-Wiki-Bulgaria" type="462c0819:PsiDirectoryNode" />
+              <item name="Solution" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c2b2233-03d8-4083-a1ec-759fcfa23983" name="Default Changelist" comment="" />
+      <created>1548067185011</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548067185011</updated>
+      <workItem from="1548067187792" duration="4555000" />
+      <workItem from="1548074010344" duration="1452000" />
+      <workItem from="1548086331088" duration="9116000" />
+      <workItem from="1548133912524" duration="5519000" />
+      <workItem from="1548146699153" duration="1161000" />
+      <workItem from="1548150577966" duration="2455000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="24258000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1366" height="741" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2278481" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3294893" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Lecture01/L1_05_TagsCardio-Nested-Lists/Requirements-and-Resources/screenshot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture01/L1_05_TagsCardio-Nested-Lists/Requirements-and-Resources/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture01/L1_05_TagsCardio-Nested-Lists/Requirements-and-Resources/Requirements.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture01/L1_05_TagsCardio-Nested-Lists/Solution/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="33" column="27" lean-forward="true" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture01/L1_06_TagsCardio-Table/Requirements-and-Resources/screenshot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture01/L1_06_TagsCardio-Table/Requirements-and-Resources/Requirements.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture01/L1_06_TagsCardio-Table/Requirements-and-Resources/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture01/L1_06_TagsCardio-Table/Solution/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture01/L1_07_TagsCardio-DataTable/Requirements-and-Resources/Requirements.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture01/L1_08_TagsCardio-Forms/Requirements-and-Resources/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture01/L1_07_TagsCardio-DataTable/Requirements-and-Resources/screenshot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture01/L1_07_TagsCardio-DataTable/Requirements-and-Resources/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="48" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture01/L1_07_TagsCardio-DataTable/Solution/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="9" selection-end-line="50" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture01/L1_08_TagsCardio-Forms/Requirements-and-Resources/Screenshots/screenshot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture01/L1_08_TagsCardio-Forms/Requirements-and-Resources/Screenshots/screenshot1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture01/L1_08_TagsCardio-Forms/Requirements-and-Resources/Screenshots/screenshot2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture01/L1_08_TagsCardio-Forms/Requirements-and-Resources/Requirements.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="306">
+            <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture01/L1_08_TagsCardio-Forms/Solution/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="68" selection-start-line="16" selection-start-column="68" selection-end-line="16" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture02/L2_01_Semantic-Tags/Requirements-and-Resources/screenshot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture02/L2_01_Semantic-Tags/Requirements-and-Resources/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="14" selection-start-line="6" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture02/L2_01_Semantic-Tags/Requirements-and-Resources/Requirements.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture02/L2_01_Semantic-Tags/Solution/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="25" column="63" selection-start-line="25" selection-start-column="63" selection-end-line="25" selection-end-column="63" />
+          <folding>
+            <element signature="e#835#841#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture02/L2_02_Semantic-Article-Page/Requirements-and-Resources/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="20" selection-start-line="12" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture02/L2_02_Semantic-Article-Page/Requirements-and-Resources/screenshot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture02/L2_02_Semantic-Article-Page/Requirements-and-Resources/Requirements.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture02/L2_03_Semantic-Blog-Layout/Requirements-and-Resources/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="29" column="19" selection-start-line="29" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture02/L2_03_Semantic-Blog-Layout/Requirements-and-Resources/Requirements.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture02/L2_02_Semantic-Article-Page/Solution/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="11" column="60" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture02/L2_03_Semantic-Blog-Layout/Requirements-and-Resources/screenshot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture02/L2_03_Semantic-Blog-Layout/Solution/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" column="65" selection-start-line="66" selection-start-column="65" selection-end-line="66" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture02/L2_04_Semantic-Tables/Requirements-and-Resources/screenshot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture02/L2_04_Semantic-Tables/Requirements-and-Resources/Requirements.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture02/L2_04_Semantic-Tables/Solution/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture02/L2_05_Clean-up-Baby-Magazine/Requirements-and-Resources/Requirements.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture02/L2_05_Clean-up-Baby-Magazine/live-source/babycare.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6205">
+          <caret line="365" column="40" selection-end-line="1463" selection-end-column="2986" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture02/L2_05_Clean-up-Baby-Magazine/Requirements-and-Resources/screenshot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture02/L2_05_Clean-up-Baby-Magazine/Requirements-and-Resources/source-file.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture02/L2_06_Clean-up-Magazine/Requirements-and-Resources/Requirements.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture02/L2_06_Clean-up-Magazine/Requirements-and-Resources/source-file.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" column="42" lean-forward="true" selection-end-line="778" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture02/L2_06_Clean-up-Magazine/Requirements-and-Resources/screenshot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture02/L2_04_Semantic-Tables/Requirements-and-Resources/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture02/L2_07_Clean-up-Wiki-Elephant/Requirements-and-Resources/screenshot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture02/L2_07_Clean-up-Wiki-Elephant/Requirements-and-Resources/source-file.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11">
+          <caret line="1209" lean-forward="true" selection-start-line="975" selection-start-column="18" selection-end-line="1209" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture02/L2_06_Clean-up-Magazine/Solution/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4998">
+          <caret line="294" lean-forward="true" selection-start-line="294" selection-end-line="294" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture02/L2_05_Clean-up-Baby-Magazine/Solution/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture02/L2_07_Clean-up-Wiki-Elephant/Requirements-and-Resources/Requirements.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture02/L2_08_Clean-up-Wiki-Bulgaria/Requirements-and-Resources/screenshot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture02/L2_08_Clean-up-Wiki-Bulgaria/Requirements-and-Resources/Requirements.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture02/L2_07_Clean-up-Wiki-Elephant/Solution/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4743">
+          <caret line="279" column="4" lean-forward="true" selection-start-line="279" selection-start-column="4" selection-end-line="279" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture02/L2_08_Clean-up-Wiki-Bulgaria/Requirements-and-Resources/source-file.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-845">
+          <caret line="251" selection-start-line="251" selection-end-line="311" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture02/L2_08_Clean-up-Wiki-Bulgaria/Solution/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
