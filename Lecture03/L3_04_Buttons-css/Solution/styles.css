@@ -1,0 +1,13 @@
+.pointer {cursor: pointer;}
+
+.fill {
+    background: gray;
+}
+
+.hover{
+    background: green;
+}
+
+button, a{
+    border-radius: 12px;
+}
