@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c2b2233-03d8-4083-a1ec-759fcfa23983" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture03/L3_01_My-first-CSS-Document/Solution/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture03/L3_01_My-first-CSS-Document/Solution/styles.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,21 +17,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lecture02/L2_07_Clean-up-Wiki-Elephant/Requirements-and-Resources/screenshot.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lecture02/L2_07_Clean-up-Wiki-Elephant/Requirements-and-Resources/source-file.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20553">
-              <caret line="1209" selection-start-line="975" selection-start-column="18" selection-end-line="1209" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lecture02/L2_07_Clean-up-Wiki-Elephant/Requirements-and-Resources/Requirements.md">
+        <entry file="file://$PROJECT_DIR$/Lecture03/L3_01_My-first-CSS-Document/Requirements-and-Resources/Requirements.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor />
@@ -40,61 +27,33 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lecture02/L2_07_Clean-up-Wiki-Elephant/Solution/index.html">
+        <entry file="file://$PROJECT_DIR$/Lecture03/L3_01_My-first-CSS-Document/Solution/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="5" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lecture02/L2_08_Clean-up-Wiki-Bulgaria/Requirements-and-Resources/screenshot.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lecture02/L2_06_Clean-up-Magazine/Solution/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4998">
-              <caret line="294" selection-start-line="294" selection-end-line="294" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lecture02/L2_08_Clean-up-Wiki-Bulgaria/Requirements-and-Resources/Requirements.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
+            <state relative-caret-position="187">
+              <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lecture02/L2_08_Clean-up-Wiki-Bulgaria/Solution/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="595" selection-start-line="595" selection-end-line="595" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lecture02/L2_08_Clean-up-Wiki-Bulgaria/Requirements-and-Resources/source-file.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4267">
-              <caret line="251" selection-start-line="251" selection-end-line="311" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lecture02/L2_05_Clean-up-Baby-Magazine/Solution/index.html">
+        <entry file="file://$PROJECT_DIR$/Lecture03/L3_01_My-first-CSS-Document/Solution/styles.js">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-line="5" selection-end-column="7" />
+              <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lecture03/L3_01_My-first-CSS-Document/Requirements-and-Resources/screenshot.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lecture03/L3_01_My-first-CSS-Document/Requirements-and-Resources/text.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="19" selection-start-line="10" selection-end-line="10" selection-end-column="322" />
             </state>
           </provider>
         </entry>
@@ -105,6 +64,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -146,6 +106,8 @@
         <option value="$PROJECT_DIR$/Lecture02/L2_06_Clean-up-Magazine/Solution/index.html" />
         <option value="$PROJECT_DIR$/Lecture02/L2_07_Clean-up-Wiki-Elephant/Solution/index.html" />
         <option value="$PROJECT_DIR$/Lecture02/L2_08_Clean-up-Wiki-Bulgaria/Solution/index.html" />
+        <option value="$PROJECT_DIR$/Lecture03/L3_01_My-first-CSS-Document/Solution/index.html" />
+        <option value="$PROJECT_DIR$/Lecture03/L3_01_My-first-CSS-Document/Solution/styles.js" />
       </list>
     </option>
   </component>
@@ -155,7 +117,9 @@
     <option name="width" value="753" />
     <option name="height" value="738" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -173,6 +137,26 @@
               <item name="Front-End-Dev" type="b2602c69:ProjectViewProjectNode" />
               <item name="Front-End-Dev" type="462c0819:PsiDirectoryNode" />
               <item name="Lecture03" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Front-End-Dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Front-End-Dev" type="462c0819:PsiDirectoryNode" />
+              <item name="Lecture03" type="462c0819:PsiDirectoryNode" />
+              <item name="L3_01_My-first-CSS-Document" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Front-End-Dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Front-End-Dev" type="462c0819:PsiDirectoryNode" />
+              <item name="Lecture03" type="462c0819:PsiDirectoryNode" />
+              <item name="L3_01_My-first-CSS-Document" type="462c0819:PsiDirectoryNode" />
+              <item name="Requirements-and-Resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Front-End-Dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Front-End-Dev" type="462c0819:PsiDirectoryNode" />
+              <item name="Lecture03" type="462c0819:PsiDirectoryNode" />
+              <item name="L3_01_My-first-CSS-Document" type="462c0819:PsiDirectoryNode" />
+              <item name="Solution" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -216,14 +200,16 @@
       <workItem from="1548146699153" duration="1161000" />
       <workItem from="1548150577966" duration="3167000" />
       <workItem from="1548252492137" duration="103000" />
+      <workItem from="1548253623678" duration="790000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25073000" />
+    <option name="totallyTimeSpent" value="25863000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2278481" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -248,34 +234,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lecture01/L1_05_TagsCardio-Nested-Lists/Requirements-and-Resources/screenshot.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture01/L1_05_TagsCardio-Nested-Lists/Requirements-and-Resources/text.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture01/L1_05_TagsCardio-Nested-Lists/Requirements-and-Resources/Requirements.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture01/L1_05_TagsCardio-Nested-Lists/Solution/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="33" column="27" lean-forward="true" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture01/L1_06_TagsCardio-Table/Requirements-and-Resources/screenshot.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lecture01/L1_06_TagsCardio-Table/Requirements-and-Resources/Requirements.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -500,9 +458,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture02/L2_07_Clean-up-Wiki-Elephant/Requirements-and-Resources/screenshot.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lecture02/L2_07_Clean-up-Wiki-Elephant/Requirements-and-Resources/source-file.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20553">
@@ -525,28 +480,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture02/L2_08_Clean-up-Wiki-Bulgaria/Requirements-and-Resources/screenshot.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture02/L2_06_Clean-up-Magazine/Solution/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4998">
-          <caret line="294" selection-start-line="294" selection-end-line="294" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lecture02/L2_08_Clean-up-Wiki-Bulgaria/Requirements-and-Resources/Requirements.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture02/L2_08_Clean-up-Wiki-Bulgaria/Requirements-and-Resources/source-file.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4267">
-          <caret line="251" selection-start-line="251" selection-end-line="311" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -557,10 +495,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture02/L2_07_Clean-up-Wiki-Elephant/Requirements-and-Resources/screenshot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture02/L2_08_Clean-up-Wiki-Bulgaria/Requirements-and-Resources/screenshot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture02/L2_06_Clean-up-Magazine/Solution/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="294" selection-start-line="294" selection-end-line="294" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Lecture02/L2_08_Clean-up-Wiki-Bulgaria/Solution/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="595" selection-start-line="595" selection-end-line="595" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture02/L2_08_Clean-up-Wiki-Bulgaria/Requirements-and-Resources/source-file.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="251" selection-start-line="251" selection-end-line="311" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture03/L3_01_My-first-CSS-Document/Requirements-and-Resources/Requirements.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture03/L3_01_My-first-CSS-Document/Requirements-and-Resources/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="19" selection-start-line="10" selection-end-line="10" selection-end-column="322" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture03/L3_01_My-first-CSS-Document/Requirements-and-Resources/screenshot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture03/L3_01_My-first-CSS-Document/Solution/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture03/L3_01_My-first-CSS-Document/Solution/styles.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
