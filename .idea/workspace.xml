@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c2b2233-03d8-4083-a1ec-759fcfa23983" name="Default Changelist" comment="" />
+    <list default="true" id="4c2b2233-03d8-4083-a1ec-759fcfa23983" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -21,8 +23,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lecture02/L2_07_Clean-up-Wiki-Elephant/Requirements-and-Resources/source-file.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11">
-              <caret line="1209" lean-forward="true" selection-start-line="975" selection-start-column="18" selection-end-line="1209" />
+            <state relative-caret-position="20553">
+              <caret line="1209" selection-start-line="975" selection-start-column="18" selection-end-line="1209" />
             </state>
           </provider>
         </entry>
@@ -40,8 +42,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lecture02/L2_07_Clean-up-Wiki-Elephant/Solution/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4743">
-              <caret line="279" column="4" lean-forward="true" selection-start-line="279" selection-start-column="4" selection-end-line="279" selection-end-column="4" />
+            <state>
+              <caret selection-end-line="5" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -55,7 +57,7 @@
         <entry file="file://$PROJECT_DIR$/Lecture02/L2_06_Clean-up-Magazine/Solution/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="4998">
-              <caret line="294" lean-forward="true" selection-start-line="294" selection-end-line="294" />
+              <caret line="294" selection-start-line="294" selection-end-line="294" />
             </state>
           </provider>
         </entry>
@@ -73,8 +75,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Lecture02/L2_08_Clean-up-Wiki-Bulgaria/Solution/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="833">
-              <caret line="94" selection-start-line="94" selection-end-line="94" />
+            <state relative-caret-position="175">
+              <caret line="595" selection-start-line="595" selection-end-line="595" />
             </state>
           </provider>
         </entry>
@@ -82,7 +84,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lecture02/L2_08_Clean-up-Wiki-Bulgaria/Requirements-and-Resources/source-file.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-845">
+            <state relative-caret-position="4267">
               <caret line="251" selection-start-line="251" selection-end-line="311" selection-end-column="4" />
             </state>
           </provider>
@@ -112,11 +114,15 @@
       <find>&lt;/div&gt;</find>
       <find>&lt;div&gt;</find>
       <find>div</find>
+      <find>span</find>
     </findStrings>
     <replaceStrings>
       <replace>''</replace>
       <replace />
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -149,6 +155,7 @@
     <option name="width" value="753" />
     <option name="height" value="738" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -165,27 +172,7 @@
             <path>
               <item name="Front-End-Dev" type="b2602c69:ProjectViewProjectNode" />
               <item name="Front-End-Dev" type="462c0819:PsiDirectoryNode" />
-              <item name="Lecture02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Front-End-Dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Front-End-Dev" type="462c0819:PsiDirectoryNode" />
-              <item name="Lecture02" type="462c0819:PsiDirectoryNode" />
-              <item name="L2_08_Clean-up-Wiki-Bulgaria" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Front-End-Dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Front-End-Dev" type="462c0819:PsiDirectoryNode" />
-              <item name="Lecture02" type="462c0819:PsiDirectoryNode" />
-              <item name="L2_08_Clean-up-Wiki-Bulgaria" type="462c0819:PsiDirectoryNode" />
-              <item name="Requirements-and-Resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Front-End-Dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Front-End-Dev" type="462c0819:PsiDirectoryNode" />
-              <item name="Lecture02" type="462c0819:PsiDirectoryNode" />
-              <item name="L2_08_Clean-up-Wiki-Bulgaria" type="462c0819:PsiDirectoryNode" />
-              <item name="Solution" type="462c0819:PsiDirectoryNode" />
+              <item name="Lecture03" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -227,16 +214,16 @@
       <workItem from="1548086331088" duration="9116000" />
       <workItem from="1548133912524" duration="5519000" />
       <workItem from="1548146699153" duration="1161000" />
-      <workItem from="1548150577966" duration="2455000" />
+      <workItem from="1548150577966" duration="3167000" />
+      <workItem from="1548252492137" duration="103000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24258000" />
+    <option name="totallyTimeSpent" value="25073000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2278481" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -518,22 +505,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lecture02/L2_07_Clean-up-Wiki-Elephant/Requirements-and-Resources/source-file.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11">
-          <caret line="1209" lean-forward="true" selection-start-line="975" selection-start-column="18" selection-end-line="1209" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture02/L2_06_Clean-up-Magazine/Solution/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4998">
-          <caret line="294" lean-forward="true" selection-start-line="294" selection-end-line="294" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture02/L2_05_Clean-up-Baby-Magazine/Solution/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" selection-end-column="7" />
+        <state relative-caret-position="20553">
+          <caret line="1209" selection-start-line="975" selection-start-column="18" selection-end-line="1209" />
         </state>
       </provider>
     </entry>
@@ -545,8 +518,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture02/L2_07_Clean-up-Wiki-Elephant/Solution/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Lecture02/L2_08_Clean-up-Wiki-Bulgaria/Requirements-and-Resources/screenshot.png">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture02/L2_06_Clean-up-Magazine/Solution/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4998">
+          <caret line="294" selection-start-line="294" selection-end-line="294" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lecture02/L2_08_Clean-up-Wiki-Bulgaria/Requirements-and-Resources/Requirements.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -556,24 +543,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture02/L2_07_Clean-up-Wiki-Elephant/Solution/index.html">
+    <entry file="file://$PROJECT_DIR$/Lecture02/L2_08_Clean-up-Wiki-Bulgaria/Requirements-and-Resources/source-file.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4743">
-          <caret line="279" column="4" lean-forward="true" selection-start-line="279" selection-start-column="4" selection-end-line="279" selection-end-column="4" />
+        <state relative-caret-position="4267">
+          <caret line="251" selection-start-line="251" selection-end-line="311" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture02/L2_08_Clean-up-Wiki-Bulgaria/Requirements-and-Resources/source-file.html">
+    <entry file="file://$PROJECT_DIR$/Lecture02/L2_05_Clean-up-Baby-Magazine/Solution/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-845">
-          <caret line="251" selection-start-line="251" selection-end-line="311" selection-end-column="4" />
+        <state>
+          <caret selection-end-line="5" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lecture02/L2_08_Clean-up-Wiki-Bulgaria/Solution/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="94" selection-start-line="94" selection-end-line="94" />
+        <state relative-caret-position="175">
+          <caret line="595" selection-start-line="595" selection-end-line="595" />
         </state>
       </provider>
     </entry>
