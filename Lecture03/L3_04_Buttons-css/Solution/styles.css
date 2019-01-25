@@ -1,13 +1,44 @@
-.pointer {cursor: pointer;}
 
-.fill {
-    background: gray;
+
+
+button, a, input{
+    display: inline-block;
+    padding: 1.2rem;
+    border: 2px solid black;
+    font-size: 1rem;
+    line-height: 1;
+    text-decoration: none;
+    color:black;
+    background: transparent;
+    border-radius: 3rem;
+    cursor: pointer;
 }
 
-.hover{
+html{
+    font: 16px/1.5 Verdana, sans-serif
+}
+
+
+button.fill, a.fill, input.fill{
+    display: inline-block;
+    padding: 1.2rem;
+    border: 2px solid black;
+    font-size: 1rem;
+    line-height: 1;
+    text-decoration: none;
+    color:white;
+    background: black;
+    border-radius: 3rem;
+}
+
+button.hover{
+    color: green;
+    border-color: currentColor;
+    background: white;
+}
+
+button.fill.hover{
+    border-color: green;
     background: green;
-}
-
-button, a{
-    border-radius: 12px;
+    color: white;
 }
