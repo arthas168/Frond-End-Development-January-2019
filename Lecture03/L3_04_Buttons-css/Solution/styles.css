@@ -1,4 +1,5 @@
 
+@import url('https://use.fontawesome.com/releases/v5.0.9/css/all.css');
 
 
 button, a, input{
@@ -12,6 +13,7 @@ button, a, input{
     background: transparent;
     border-radius: 3rem;
     cursor: pointer;
+    outline: none;
 }
 
 html{
@@ -31,10 +33,16 @@ button.fill, a.fill, input.fill{
     border-radius: 3rem;
 }
 
+button.fill{
+    color: white;
+    border-color: black;
+    background: black;
+}
+
 button.hover{
-    color: green;
-    border-color: currentColor;
+    border-color: green;
     background: white;
+    color: green;
 }
 
 button.fill.hover{
