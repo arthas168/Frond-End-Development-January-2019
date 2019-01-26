@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c2b2233-03d8-4083-a1ec-759fcfa23983" name="Default Changelist" comment="updated solution to problem from homework">
-      <change afterPath="$PROJECT_DIR$/Lecture03/L3_08_Create-Typography-CSS/Solution/tableStyles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture03/L3_09_Fonts-speciment-PT-Sans/Solution/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture03/L3_09_Fonts-speciment-PT-Sans/Solution/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture03/L3_10_Fonts-speciment-Cormorant+Lato/Solution/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture03/L3_10_Fonts-speciment-Cormorant+Lato/Solution/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lecture03/L3_08_Create-Typography-CSS/Solution/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture03/L3_08_Create-Typography-CSS/Solution/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lecture03/L3_08_Create-Typography-CSS/Solution/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture03/L3_08_Create-Typography-CSS/Solution/styles.css" afterDir="false" />
@@ -19,15 +22,59 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lecture03/L3_08_Create-Typography-CSS/Requirements-and-Resources/screenshot.png">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/Lecture03/L3_09_Fonts-speciment-PT-Sans/Requirements-and-Resources/Requirements.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lecture03/L3_09_Fonts-speciment-PT-Sans/Solution/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="34" column="34" selection-end-line="107" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lecture03/L3_08_Create-Typography-CSS/Solution/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="123" column="30" lean-forward="true" selection-start-line="123" selection-start-column="30" selection-end-line="123" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lecture03/L3_10_Fonts-speciment-Cormorant+Lato/Solution/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="59" column="21" lean-forward="true" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lecture03/L3_08_Create-Typography-CSS/Solution/index.html">
+        <entry file="file://$PROJECT_DIR$/Lecture03/L3_10_Fonts-speciment-Cormorant+Lato/Requirements-and-Resources/Requirements.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="136">
+                <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="25" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lecture03/L3_10_Fonts-speciment-Cormorant+Lato/Solution/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="180" column="38" lean-forward="true" selection-start-line="180" selection-start-column="38" selection-end-line="180" selection-end-column="38" />
+            <state relative-caret-position="119">
+              <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -35,38 +82,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lecture03/L3_08_Create-Typography-CSS/Solution/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lecture03/L3_08_Create-Typography-CSS/Solution/tableStyles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lecture03/L3_03_Styling-tables/Solution/typography.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="17" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lecture03/L3_08_Create-Typography-CSS/Requirements-and-Resources/Requirements.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="212">
-                <caret line="16" column="51" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="51" />
-              </first_editor>
-              <second_editor />
+            <state relative-caret-position="-46">
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -77,15 +94,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lecture03/L3_11_Fonts-speciment-Great-Vibes+Raleway/Requirements-and-Resources/screenshot.png">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/Lecture03/L3_09_Fonts-speciment-PT-Sans/Requirements-and-Resources/text.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="39" lean-forward="true" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lecture03/L3_08_Create-Typography-CSS/Requirements-and-Resources/text.txt">
+        <entry file="file://$PROJECT_DIR$/Lecture03/L3_09_Fonts-speciment-PT-Sans/Solution/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="55" column="7" lean-forward="true" selection-start-line="55" selection-end-line="55" selection-end-column="27" />
+            <state>
+              <caret selection-end-line="4" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -157,8 +178,12 @@
         <option value="$PROJECT_DIR$/Lecture03/L3_07_Icon-font-buttons/Solution/index.html" />
         <option value="$PROJECT_DIR$/Lecture03/L3_07_Icon-font-buttons/Solution/styles.css" />
         <option value="$PROJECT_DIR$/Lecture03/L3_08_Create-Typography-CSS/Solution/tableStyles.css" />
-        <option value="$PROJECT_DIR$/Lecture03/L3_08_Create-Typography-CSS/Solution/styles.css" />
         <option value="$PROJECT_DIR$/Lecture03/L3_08_Create-Typography-CSS/Solution/index.html" />
+        <option value="$PROJECT_DIR$/Lecture03/L3_08_Create-Typography-CSS/Solution/styles.css" />
+        <option value="$PROJECT_DIR$/Lecture03/L3_09_Fonts-speciment-PT-Sans/Solution/styles.css" />
+        <option value="$PROJECT_DIR$/Lecture03/L3_09_Fonts-speciment-PT-Sans/Solution/index.html" />
+        <option value="$PROJECT_DIR$/Lecture03/L3_10_Fonts-speciment-Cormorant+Lato/Solution/index.html" />
+        <option value="$PROJECT_DIR$/Lecture03/L3_10_Fonts-speciment-Cormorant+Lato/Solution/styles.css" />
       </list>
     </option>
   </component>
@@ -193,33 +218,33 @@
               <item name="Front-End-Dev" type="b2602c69:ProjectViewProjectNode" />
               <item name="Front-End-Dev" type="462c0819:PsiDirectoryNode" />
               <item name="Lecture03" type="462c0819:PsiDirectoryNode" />
-              <item name="L3_03_Styling-tables" type="462c0819:PsiDirectoryNode" />
+              <item name="L3_08_Create-Typography-CSS" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Front-End-Dev" type="b2602c69:ProjectViewProjectNode" />
               <item name="Front-End-Dev" type="462c0819:PsiDirectoryNode" />
               <item name="Lecture03" type="462c0819:PsiDirectoryNode" />
-              <item name="L3_03_Styling-tables" type="462c0819:PsiDirectoryNode" />
+              <item name="L3_08_Create-Typography-CSS" type="462c0819:PsiDirectoryNode" />
               <item name="Solution" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Front-End-Dev" type="b2602c69:ProjectViewProjectNode" />
               <item name="Front-End-Dev" type="462c0819:PsiDirectoryNode" />
               <item name="Lecture03" type="462c0819:PsiDirectoryNode" />
-              <item name="L3_08_Create-Typography-CSS" type="462c0819:PsiDirectoryNode" />
+              <item name="L3_10_Fonts-speciment-Cormorant+Lato" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Front-End-Dev" type="b2602c69:ProjectViewProjectNode" />
               <item name="Front-End-Dev" type="462c0819:PsiDirectoryNode" />
               <item name="Lecture03" type="462c0819:PsiDirectoryNode" />
-              <item name="L3_08_Create-Typography-CSS" type="462c0819:PsiDirectoryNode" />
+              <item name="L3_10_Fonts-speciment-Cormorant+Lato" type="462c0819:PsiDirectoryNode" />
               <item name="Requirements-and-Resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Front-End-Dev" type="b2602c69:ProjectViewProjectNode" />
               <item name="Front-End-Dev" type="462c0819:PsiDirectoryNode" />
               <item name="Lecture03" type="462c0819:PsiDirectoryNode" />
-              <item name="L3_08_Create-Typography-CSS" type="462c0819:PsiDirectoryNode" />
+              <item name="L3_10_Fonts-speciment-Cormorant+Lato" type="462c0819:PsiDirectoryNode" />
               <item name="Solution" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -269,7 +294,7 @@
       <workItem from="1548261299434" duration="11930000" />
       <workItem from="1548435701147" duration="6876000" />
       <workItem from="1548479727713" duration="1596000" />
-      <workItem from="1548494345461" duration="2412000" />
+      <workItem from="1548494345461" duration="5610000" />
     </task>
     <task id="LOCAL-00001" summary="testing committing via webstorm">
       <created>1548254613404</created>
@@ -303,7 +328,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49251000" />
+    <option name="totallyTimeSpent" value="52449000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
@@ -338,50 +363,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="updated solution to problem from homework" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lecture02/L2_08_Clean-up-Wiki-Bulgaria/Requirements-and-Resources/screenshot.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture02/L2_06_Clean-up-Magazine/Solution/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="294" selection-start-line="294" selection-end-line="294" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture02/L2_08_Clean-up-Wiki-Bulgaria/Solution/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="595" selection-start-line="595" selection-end-line="595" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture02/L2_08_Clean-up-Wiki-Bulgaria/Requirements-and-Resources/source-file.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="251" selection-start-line="251" selection-end-line="311" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture03/L3_01_My-first-CSS-Document/Requirements-and-Resources/Requirements.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture03/L3_01_My-first-CSS-Document/Solution/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture03/L3_01_My-first-CSS-Document/Requirements-and-Resources/screenshot.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lecture03/L3_01_My-first-CSS-Document/Requirements-and-Resources/text.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -588,12 +569,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture03/L3_09_Fonts-speciment-PT-Sans/Requirements-and-Resources/screenshot.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture03/L3_10_Fonts-speciment-Cormorant+Lato/Requirements-and-Resources/screenshot.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lecture03/L3_11_Fonts-speciment-Great-Vibes+Raleway/Requirements-and-Resources/screenshot.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -601,16 +576,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture03/L3_08_Create-Typography-CSS/Requirements-and-Resources/Requirements.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="212">
-            <caret line="16" column="51" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="51" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -628,16 +593,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture03/L3_08_Create-Typography-CSS/Requirements-and-Resources/screenshot.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture03/L3_08_Create-Typography-CSS/Solution/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lecture03/L3_08_Create-Typography-CSS/Requirements-and-Resources/text.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="271">
@@ -645,10 +600,89 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture03/L3_08_Create-Typography-CSS/Requirements-and-Resources/Requirements.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="272">
+            <caret line="16" column="51" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="51" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture03/L3_08_Create-Typography-CSS/Requirements-and-Resources/screenshot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture03/L3_09_Fonts-speciment-PT-Sans/Requirements-and-Resources/screenshot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture03/L3_09_Fonts-speciment-PT-Sans/Requirements-and-Resources/Requirements.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture03/L3_09_Fonts-speciment-PT-Sans/Requirements-and-Resources/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="39" lean-forward="true" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture03/L3_10_Fonts-speciment-Cormorant+Lato/Requirements-and-Resources/screenshot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture03/L3_09_Fonts-speciment-PT-Sans/Solution/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="34" column="34" selection-end-line="107" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture03/L3_08_Create-Typography-CSS/Solution/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-46">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Lecture03/L3_08_Create-Typography-CSS/Solution/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="180" column="38" lean-forward="true" selection-start-line="180" selection-start-column="38" selection-end-line="180" selection-end-column="38" />
+        <state relative-caret-position="238">
+          <caret line="123" column="30" lean-forward="true" selection-start-line="123" selection-start-column="30" selection-end-line="123" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture03/L3_09_Fonts-speciment-PT-Sans/Solution/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture03/L3_10_Fonts-speciment-Cormorant+Lato/Solution/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="59" column="21" lean-forward="true" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture03/L3_10_Fonts-speciment-Cormorant+Lato/Solution/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture03/L3_10_Fonts-speciment-Cormorant+Lato/Requirements-and-Resources/Requirements.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="136">
+            <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
