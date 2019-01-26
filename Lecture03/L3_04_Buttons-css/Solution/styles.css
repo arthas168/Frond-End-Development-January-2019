@@ -24,29 +24,31 @@ html{
 button.fill, a.fill, input.fill{
     display: inline-block;
     padding: 1.2rem;
-    border: 2px solid black;
+    border: 2px solid rgb(51, 51, 51);
     font-size: 1rem;
     line-height: 1;
     text-decoration: none;
-    color:white;
-    background: black;
+    color:rgb(251, 251, 251);
+    background: rgb(51, 51, 51);
     border-radius: 3rem;
 }
 
-button.fill{
-    color: white;
-    border-color: black;
-    background: black;
+.button.fill{
+    color: rgb(251, 251, 251);
+    border-color: rgb(0, 102, 0);
+    background: rgb(0, 102, 0);
 }
 
 button.hover{
-    border-color: green;
-    background: white;
-    color: green;
+    border-color: rgb(51, 51, 51);
+    background: rgb(251, 251, 251);
+    color: rgb(51, 51, 51);
 }
 
-button.fill.hover{
-    border-color: green;
-    background: green;
-    color: white;
+.button.fill.hover{
+    border-color: rgb(0, 102, 0);
+    background: rgb(0, 102, 0);
+    color: rgb(251, 251, 251);
 }
+
+

@@ -1,0 +1,27 @@
+@import url('https://use.fontawesome.com/releases/v5.0.9/css/all.css');
+
+.button.click{
+    display: inline-block;
+    padding: 1.2rem;
+    font-size: 1rem;
+    line-height: 1;
+    text-decoration: none;
+    color:white;
+    background: green;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    outline: none;
+}
+
+.button.email{
+    display: inline-block;
+    padding: 1.2rem;
+    font-size: 1rem;
+    line-height: 1;
+    text-decoration: none;
+    color:white;
+    background: orange;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    outline: none;
+}

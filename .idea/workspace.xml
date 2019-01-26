@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c2b2233-03d8-4083-a1ec-759fcfa23983" name="Default Changelist" comment="updated solution to problem from homework">
+      <change afterPath="$PROJECT_DIR$/Lecture03/L3_07_Icon-font-buttons/Solution/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture03/L3_07_Icon-font-buttons/Solution/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lecture03/L3_04_Buttons-css/Solution.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture03/L3_04_Buttons-css/Solution.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lecture03/L3_04_Buttons-css/Solution/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture03/L3_04_Buttons-css/Solution/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lecture03/L3_04_Buttons-css/Solution/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture03/L3_04_Buttons-css/Solution/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture03/L3_06_Icon-font-list/Solution.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture03/L3_06_Icon-font-list/Solution.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture03/L3_06_Icon-font-list/Solution/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture03/L3_06_Icon-font-list/Solution/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture03/L3_06_Icon-font-list/Solution/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture03/L3_06_Icon-font-list/Solution/styles.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,39 +24,67 @@
         <entry file="file://$PROJECT_DIR$/Lecture03/L3_06_Icon-font-list/Solution/styles.css">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="71" lean-forward="true" selection-end-line="1" />
+              <caret column="71" selection-end-line="1" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lecture03/L3_06_Icon-font-list/Requirements-and-Resources/screenshot.png">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lecture03/L3_06_Icon-font-list/Solution/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="56" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lecture03/L3_04_Buttons-css/Solution/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+            <state relative-caret-position="357">
+              <caret line="21" column="39" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lecture03/L3_04_Buttons-css/Solution/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="12" column="41" lean-forward="true" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lecture03/L3_07_Icon-font-buttons/Requirements-and-Resources/Requirements.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lecture03/L3_07_Icon-font-buttons/Solution/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lecture03/L3_07_Icon-font-buttons/Solution/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lecture03/L3_07_Icon-font-buttons/Requirements-and-Resources/screenshot.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lecture03/L3_04_Buttons-css/Solution/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="16" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -70,7 +98,9 @@
         <entry file="file://$PROJECT_DIR$/Lecture03/L3_04_Buttons-css/Requirements-and-Resources/Requirements.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="238">
+                <caret line="14" column="126" lean-forward="true" selection-start-line="14" selection-start-column="111" selection-end-line="14" selection-end-column="126" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
@@ -137,8 +167,11 @@
         <option value="$PROJECT_DIR$/Lecture03/L3_05_Contrasting-colors/Solution/styles.css" />
         <option value="$PROJECT_DIR$/Lecture03/L3_06_Icon-font-list/Solution/index.html" />
         <option value="$PROJECT_DIR$/Lecture03/L3_06_Icon-font-list/Solution/styles.css" />
-        <option value="$PROJECT_DIR$/Lecture03/L3_04_Buttons-css/Solution/styles.css" />
         <option value="$PROJECT_DIR$/Lecture03/L3_04_Buttons-css/Solution/index.html" />
+        <option value="$PROJECT_DIR$/Lecture03/L3_04_Buttons-css/Solution/styles.css" />
+        <option value="$PROJECT_DIR$/Lecture03/L3_07_Icon-font-buttons/Solution/inde.html" />
+        <option value="$PROJECT_DIR$/Lecture03/L3_07_Icon-font-buttons/Solution/index.html" />
+        <option value="$PROJECT_DIR$/Lecture03/L3_07_Icon-font-buttons/Solution/styles.css" />
       </list>
     </option>
   </component>
@@ -156,7 +189,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -180,19 +212,33 @@
               <item name="Front-End-Dev" type="462c0819:PsiDirectoryNode" />
               <item name="Lecture03" type="462c0819:PsiDirectoryNode" />
               <item name="L3_04_Buttons-css" type="462c0819:PsiDirectoryNode" />
+              <item name="Solution" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Front-End-Dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Front-End-Dev" type="462c0819:PsiDirectoryNode" />
+              <item name="Lecture03" type="462c0819:PsiDirectoryNode" />
+              <item name="L3_07_Icon-font-buttons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Front-End-Dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Front-End-Dev" type="462c0819:PsiDirectoryNode" />
+              <item name="Lecture03" type="462c0819:PsiDirectoryNode" />
+              <item name="L3_07_Icon-font-buttons" type="462c0819:PsiDirectoryNode" />
               <item name="Requirements-and-Resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Front-End-Dev" type="b2602c69:ProjectViewProjectNode" />
               <item name="Front-End-Dev" type="462c0819:PsiDirectoryNode" />
               <item name="Lecture03" type="462c0819:PsiDirectoryNode" />
-              <item name="L3_04_Buttons-css" type="462c0819:PsiDirectoryNode" />
+              <item name="L3_07_Icon-font-buttons" type="462c0819:PsiDirectoryNode" />
               <item name="Solution" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -234,7 +280,8 @@
       <workItem from="1548252492137" duration="103000" />
       <workItem from="1548253623678" duration="1364000" />
       <workItem from="1548261299434" duration="11930000" />
-      <workItem from="1548435701147" duration="5783000" />
+      <workItem from="1548435701147" duration="6876000" />
+      <workItem from="1548479727713" duration="700000" />
     </task>
     <task id="LOCAL-00001" summary="testing committing via webstorm">
       <created>1548254613404</created>
@@ -268,7 +315,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44150000" />
+    <option name="totallyTimeSpent" value="45973000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
@@ -303,27 +350,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="updated solution to problem from homework" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lecture02/L2_05_Clean-up-Baby-Magazine/Requirements-and-Resources/source-file.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture02/L2_06_Clean-up-Magazine/Requirements-and-Resources/Requirements.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture02/L2_06_Clean-up-Magazine/Requirements-and-Resources/source-file.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="49" column="42" lean-forward="true" selection-end-line="778" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture02/L2_06_Clean-up-Magazine/Requirements-and-Resources/screenshot.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lecture02/L2_04_Semantic-Tables/Requirements-and-Resources/text.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -580,14 +606,27 @@
     <entry file="file://$PROJECT_DIR$/Lecture03/L3_06_Icon-font-list/Requirements-and-Resources/screenshot.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture03/L3_06_Icon-font-list/Solution/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="56" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
+    <entry file="file://$PROJECT_DIR$/Lecture03/L3_04_Buttons-css/Requirements-and-Resources/screenshot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture03/L3_04_Buttons-css/Requirements-and-Resources/Requirements.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="238">
+            <caret line="14" column="126" lean-forward="true" selection-start-line="14" selection-start-column="111" selection-end-line="14" selection-end-column="126" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture03/L3_04_Buttons-css/Requirements-and-Resources/Requirements.md">
+    <entry file="file://$PROJECT_DIR$/Lecture03/L3_04_Buttons-css/Solution/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="12" column="41" lean-forward="true" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture03/L3_07_Icon-font-buttons/Requirements-and-Resources/Requirements.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -595,27 +634,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture03/L3_04_Buttons-css/Requirements-and-Resources/screenshot.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lecture03/L3_06_Icon-font-list/Solution/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="71" lean-forward="true" selection-end-line="1" />
+          <caret column="71" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture03/L3_06_Icon-font-list/Solution/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="39" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lecture03/L3_04_Buttons-css/Solution/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture03/L3_04_Buttons-css/Solution/index.html">
+    <entry file="file://$PROJECT_DIR$/Lecture03/L3_07_Icon-font-buttons/Requirements-and-Resources/screenshot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture03/L3_07_Icon-font-buttons/Solution/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        <state relative-caret-position="153">
+          <caret line="9" column="64" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture03/L3_07_Icon-font-buttons/Solution/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
         </state>
       </provider>
     </entry>
