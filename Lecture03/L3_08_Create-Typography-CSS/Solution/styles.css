@@ -1,0 +1,7 @@
+blockquote > p{
+    font-style: italic;
+}
+
+.author{
+    text-align: right;
+}

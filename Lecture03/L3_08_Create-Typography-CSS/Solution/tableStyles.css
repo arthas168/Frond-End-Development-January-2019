@@ -1,0 +1,28 @@
+table tbody tr:nth-child(odd) td {
+    background: rgb(241, 241, 241)
+}
+
+table tbody:nth-child(odd) tr{
+    background: #000;rgb(241, 241, 241)
+}
+
+table, td, th {
+    border-width: 1px;
+    border-color: rgb(221,221,221);
+    border-style: solid;
+}
+
+table tbody tr:hover td {
+    background: rgb(0,0,0);
+    color: rgb(255, 255, 255);
+}
+
+table.center {
+    margin-left:auto;
+    margin-right:auto;
+    height: 100%;
+    width: 100%;
+}
+table thead {
+ background: lightgrey;
+}
