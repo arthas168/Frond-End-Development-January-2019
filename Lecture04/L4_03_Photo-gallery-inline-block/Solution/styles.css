@@ -3,9 +3,13 @@ li {
     border-color: black;
     border-style: solid;
     display: inline-block;
-
+   margin-bottom: 1rem;
 }
 
 img {
-    max-width: 30em;
+    max-width: 20em;
+    height: auto;
+    padding: 1rem;
+    display: inline-block;
+    vertical-align: middle;
 }
