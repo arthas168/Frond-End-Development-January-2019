@@ -1,0 +1,36 @@
+body {
+    size: 16px;
+    line-height: 1.5;
+    font-family: Helvetica, sans-serif;
+
+}
+
+.site-title{
+    display:inline-block;
+    font-weight: bold;
+    text-transform: uppercase;
+    size: 18px;
+}
+
+.img1{
+    padding: 0.5rem;
+    float: right;
+    border: solid black;
+    margin: 0.5rem;
+    box-shadow: 5px 5px 5px 5px lightgray;
+}
+
+
+.img2{
+    padding: 0.5rem;
+    float: left;
+    border: solid black;
+    margin: 0.5rem;
+    box-shadow: 5px 5px 5px 5px lightgray;
+}
+
+blockquote{
+    float:right;
+    margin: 0.5rem;
+    border-left: 1px gray;
+}
