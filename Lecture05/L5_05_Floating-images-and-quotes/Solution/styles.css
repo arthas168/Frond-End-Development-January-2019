@@ -1,0 +1,57 @@
+body {
+    size: 16px;
+    line-height: 1.5;
+    font-family: Helvetica, sans-serif;
+    background: rgb(238, 238, 238);
+}
+
+.site-title{
+    display:inline-block;
+    font-weight: bold;
+    text-transform: uppercase;
+    size: 18px;
+}
+
+.img1{
+    padding: 0.5rem;
+    float: right;
+    border: rgb(255, 255, 255);
+    margin: 1rem;
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.25);
+}
+
+
+.img2{
+    padding: 0.5rem;
+    float: left;
+    border: solid black;
+    margin: 1rem;
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.25);
+}
+
+blockquote{
+    float:right;
+    margin: 0.5rem;
+    border-left: 1px gray;
+    font-family: Georgia, serif;
+}
+
+nav{
+    display: inline-block;
+    float:right;
+    margin: 5rem;
+    width: 30%;
+}
+
+article{
+    width:70%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Georgia, serif;
+    size: 1em;
+}
+
+a{
+    color: darkgreen;
+}
