@@ -1,0 +1,15 @@
+ul{
+    list-style: none;
+}
+
+body, ul, li{
+    display:flex;
+    flex-wrap: wrap;
+}
+img{
+    margin: 0.5rem;
+    padding:0.5rem;
+    box-shadow: dimgrey;
+    border-color: black;
+    border-style: solid;
+}

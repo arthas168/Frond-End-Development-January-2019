@@ -1,0 +1,19 @@
+ul {
+    list-style:none;
+    display:flex;
+    margin-left: auto;
+}
+
+header{
+    display:flex;
+    border-bottom: 2px solid rgb(0,0,0);
+}
+
+a{
+    color:rgb(0, 153, 0);
+    text-decoration: none;
+}
+
+li{
+    margin: 0.5em;
+}
