@@ -1,0 +1,33 @@
+@import url('https://use.fontawesome.com/releases/v5.0.9/css/all.css');
+
+html{
+    line-height: 1.2;
+    font-family: Montserat, sans-serif;
+}
+
+body{
+    background: #8E2DE2;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #4A00E0, #8E2DE2);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #4A00E0, #8E2DE2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background: white;
+    margin-left: 20rem;
+    margin-right: 20rem;
+}
+
+span{
+    padding: 1rem;
+    margin: 1rem;
+    box-shadow: dimgrey;
+}
+
+.facebook{
+    background: blue;
+    color: white;
+}
