@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c2b2233-03d8-4083-a1ec-759fcfa23983" name="Default Changelist" comment="updated solution to problem from homework">
-      <change afterPath="$PROJECT_DIR$/Lecture06/L6_07_Blog-layout-flexbox/Solution/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture06/L6_07_Blog-layout-flexbox/Solution/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture06/L6_08_Sticky-footer-flexbox/Solution/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture06/L6_08_Sticky-footer-flexbox/Solution/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture06/L6_09_Center-flexbox/Solution/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture06/L6_09_Center-flexbox/Solution/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture06/L6_10_Expanding-flex-cards/Solution/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture06/L6_10_Expanding-flex-cards/Solution/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture06/L6_11_Cards-with-csscolumns-and-flexbox/Solution/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture06/L6_11_Cards-with-csscolumns-and-flexbox/Solution/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture06/L6_06_Photo-gallery-flexbox/Solution/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture06/L6_06_Photo-gallery-flexbox/Solution/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture06/L6_11_Cards-with-csscolumns-and-flexbox/Requirements-and-Resources/Requirements.md" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture06/L6_11_Cards-with-csscolumns-and-flexbox/Requirements-and-Resources/Requirements.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,29 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lecture06/L6_09_Center-flexbox/Solution/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lecture06/L6_09_Center-flexbox/Solution/styles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lecture06/L6_10_Expanding-flex-cards/Requirements-and-Resources/screenshot.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lecture06/L6_10_Expanding-flex-cards/Requirements-and-Resources/Requirements.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -66,18 +31,38 @@
         <entry file="file://$PROJECT_DIR$/Lecture06/L6_10_Expanding-flex-cards/Solution/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+              <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lecture06/L6_11_Cards-with-csscolumns-and-flexbox/Solution/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-76">
-              <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            <state relative-caret-position="51">
+              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lecture07/L7_01_Input-addon-flexbox/Requirements-and-Resources/Requirements.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lecture07/L7_01_Input-addon-flexbox/Requirements-and-Resources/Screenshots/hover.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lecture07/L7_01_Input-addon-flexbox/Requirements-and-Resources/Screenshots/screenshot.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -94,7 +79,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="221">
-                <caret line="13" column="90" lean-forward="true" selection-start-line="13" selection-start-column="90" selection-end-line="13" selection-end-column="90" />
+                <caret line="13" column="90" selection-start-line="13" selection-start-column="90" selection-end-line="13" selection-end-column="90" />
               </first_editor>
               <second_editor />
             </state>
@@ -213,6 +198,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -220,17 +206,42 @@
               <item name="Front-End-Dev" type="b2602c69:ProjectViewProjectNode" />
               <item name="Front-End-Dev" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Front-End-Dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Front-End-Dev" type="462c0819:PsiDirectoryNode" />
+              <item name="Lecture07" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Front-End-Dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Front-End-Dev" type="462c0819:PsiDirectoryNode" />
+              <item name="Lecture07" type="462c0819:PsiDirectoryNode" />
+              <item name="L7_01_Input-addon-flexbox" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Front-End-Dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Front-End-Dev" type="462c0819:PsiDirectoryNode" />
+              <item name="Lecture07" type="462c0819:PsiDirectoryNode" />
+              <item name="L7_01_Input-addon-flexbox" type="462c0819:PsiDirectoryNode" />
+              <item name="Requirements-and-Resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Front-End-Dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Front-End-Dev" type="462c0819:PsiDirectoryNode" />
+              <item name="Lecture07" type="462c0819:PsiDirectoryNode" />
+              <item name="L7_01_Input-addon-flexbox" type="462c0819:PsiDirectoryNode" />
+              <item name="Requirements-and-Resources" type="462c0819:PsiDirectoryNode" />
+              <item name="Screenshots" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Ilves" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Softuni-Blockchain/homework-solutions" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -293,6 +304,8 @@
       <workItem from="1550247490440" duration="7496000" />
       <workItem from="1550258160260" duration="6000" />
       <workItem from="1550305060497" duration="11378000" />
+      <workItem from="1550681975316" duration="971000" />
+      <workItem from="1550691551021" duration="36000" />
     </task>
     <task id="LOCAL-00001" summary="testing committing via webstorm">
       <created>1548254613404</created>
@@ -333,7 +346,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105188000" />
+    <option name="totallyTimeSpent" value="106195000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
@@ -387,26 +400,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="updated solution to problem from homework" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lecture05/L5_07_Social_Media_Icons/Solution/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture06/L6_01_Media-query-less-layout-using-flexbox/Requirements-and-Resources/Requirements.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="119">
-            <caret line="7" column="86" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="86" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture06/L6_01_Media-query-less-layout-using-flexbox/Requirements-and-Resources/screenshot.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lecture06/L6_01_Media-query-less-layout-using-flexbox/Solution/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -652,23 +645,19 @@
     <entry file="file://$PROJECT_DIR$/Lecture06/L6_09_Center-flexbox/Solution/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lecture06/L6_09_Center-flexbox/Solution/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture06/L6_10_Expanding-flex-cards/Solution/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Lecture06/L6_10_Expanding-flex-cards/Requirements-and-Resources/screenshot.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Lecture06/L6_10_Expanding-flex-cards/Requirements-and-Resources/Requirements.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -680,15 +669,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture06/L6_10_Expanding-flex-cards/Requirements-and-Resources/screenshot.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lecture06/L6_10_Expanding-flex-cards/Solution/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture06/L6_11_Cards-with-csscolumns-and-flexbox/Solution/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture07/L7_01_Input-addon-flexbox/Requirements-and-Resources/Requirements.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture07/L7_01_Input-addon-flexbox/Requirements-and-Resources/Screenshots/hover.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Lecture06/L6_11_Cards-with-csscolumns-and-flexbox/Solution/styles.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -701,7 +705,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="221">
-            <caret line="13" column="90" lean-forward="true" selection-start-line="13" selection-start-column="90" selection-end-line="13" selection-end-column="90" />
+            <caret line="13" column="90" selection-start-line="13" selection-start-column="90" selection-end-line="13" selection-end-column="90" />
           </first_editor>
           <second_editor />
         </state>
@@ -710,12 +714,15 @@
     <entry file="file://$PROJECT_DIR$/Lecture06/L6_11_Cards-with-csscolumns-and-flexbox/Requirements-and-Resources/screenshot.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture06/L6_11_Cards-with-csscolumns-and-flexbox/Solution/index.html">
+    <entry file="file://$PROJECT_DIR$/Lecture06/L6_10_Expanding-flex-cards/Solution/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-76">
-          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        <state relative-caret-position="119">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture07/L7_01_Input-addon-flexbox/Requirements-and-Resources/Screenshots/screenshot.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>
