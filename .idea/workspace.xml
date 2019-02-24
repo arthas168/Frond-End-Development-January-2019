@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c2b2233-03d8-4083-a1ec-759fcfa23983" name="Default Changelist" comment="updated solution to problem from homework">
-      <change afterPath="$PROJECT_DIR$/Lecture07/L7_02_Funny-login-form/Solution/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture07/L7_02_Funny-login-form/Solution/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture07/L7_03_Customer-details-form/Solution/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture07/L7_03_Customer-details-form/Solution/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture07/L7_04_Forms-CSS/Solution/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture07/L7_04_Forms-CSS/Solution/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,78 +22,72 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lecture07/L7_01_Input-addon-flexbox/Solution/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="170">
+              <caret line="10" column="22" selection-end-line="22" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lecture07/L7_02_Funny-login-form/Requirements-and-Resources/Screenshots/focus.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lecture07/L7_02_Funny-login-form/Requirements-and-Resources/Requirements.md">
+        <entry file="file://$PROJECT_DIR$/Lecture07/L7_04_Forms-CSS/Requirements-and-Resources/Requirements.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="323">
-                <caret line="19" column="44" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="44" />
-              </first_editor>
+              <first_editor />
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lecture07/L7_02_Funny-login-form/Solution/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-            </state>
-          </provider>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lecture07/L7_01_Input-addon-flexbox/Requirements-and-Resources/Screenshots/hover.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lecture07/L7_02_Funny-login-form/Solution/styles.css">
+        <entry file="file://$PROJECT_DIR$/Lecture07/L7_01_Input-addon-flexbox/Requirements-and-Resources/Screenshots/screenshot.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lecture07/L7_04_Forms-CSS/Requirements-and-Resources/Screenshots/screenshot-desktop.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lecture07/L7_04_Forms-CSS/Solution/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="39" lean-forward="true" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+              <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lecture07/L7_02_Funny-login-form/Requirements-and-Resources/Screenshots/hover.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lecture07/L7_02_Funny-login-form/Requirements-and-Resources/Screenshots/screenshot.png">
-          <provider selected="true" editor-type-id="images" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lecture07/L7_04_Forms-CSS/Solution/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lecture07/L7_01_Input-addon-flexbox/Solution/styles.css">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="42" lean-forward="true" selection-end-line="1" />
+              <caret column="42" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lecture06/L6_11_Cards-with-csscolumns-and-flexbox/Requirements-and-Resources/screenshot.jpg">
+        <entry file="file://$PROJECT_DIR$/Lecture07/L7_04_Forms-CSS/Requirements-and-Resources/Screenshots/screenshot-laptop.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lecture06/L6_10_Expanding-flex-cards/Solution/styles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/Lecture07/L7_04_Forms-CSS/Requirements-and-Resources/Screenshots/screenshot-phone.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -101,8 +97,8 @@
       <list>
         <option value="JavaScript File" />
         <option value="Solidity Contract" />
-        <option value="HTML File" />
         <option value="TypeScript File" />
+        <option value="HTML File" />
         <option value="CSS File" />
       </list>
     </option>
@@ -126,10 +122,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Lecture03/L3_11_Fonts-speciment-Great-Vibes+Raleway/Solution/index.html" />
-        <option value="$PROJECT_DIR$/Lecture03/L3_11_Fonts-speciment-Great-Vibes+Raleway/Solution/styles.css" />
-        <option value="$PROJECT_DIR$/Lecture04/L4_01_Simple-article-page/Solution/index.html" />
-        <option value="$PROJECT_DIR$/Lecture04/L4_04_Blog-layout-inline-block/Solution/styles.css" />
         <option value="$PROJECT_DIR$/Lecture04/L4_04_Blog-layout-inline-block/Solution/index.html" />
         <option value="$PROJECT_DIR$/Lecture04/L4_02_Navigation-inline-block/Solution/styles.css" />
         <option value="$PROJECT_DIR$/Lecture04/L4_02_Navigation-inline-block/Solution/index.html" />
@@ -177,6 +169,10 @@
         <option value="$PROJECT_DIR$/Lecture07/L7_02_Funny-login-form/Solution/styles.ts" />
         <option value="$PROJECT_DIR$/Lecture07/L7_02_Funny-login-form/Solution/styles.css" />
         <option value="$PROJECT_DIR$/Lecture07/L7_02_Funny-login-form/Solution/index.html" />
+        <option value="$PROJECT_DIR$/Lecture07/L7_03_Customer-details-form/Solution/index.html" />
+        <option value="$PROJECT_DIR$/Lecture07/L7_03_Customer-details-form/Solution/styles.css" />
+        <option value="$PROJECT_DIR$/Lecture07/L7_04_Forms-CSS/Solution/index.html" />
+        <option value="$PROJECT_DIR$/Lecture07/L7_04_Forms-CSS/Solution/styles.css" />
       </list>
     </option>
   </component>
@@ -216,26 +212,13 @@
               <item name="Front-End-Dev" type="462c0819:PsiDirectoryNode" />
               <item name="Lecture07" type="462c0819:PsiDirectoryNode" />
               <item name="L7_01_Input-addon-flexbox" type="462c0819:PsiDirectoryNode" />
-              <item name="Solution" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Front-End-Dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Front-End-Dev" type="462c0819:PsiDirectoryNode" />
-              <item name="Lecture07" type="462c0819:PsiDirectoryNode" />
-              <item name="L7_02_Funny-login-form" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Front-End-Dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Front-End-Dev" type="462c0819:PsiDirectoryNode" />
-              <item name="Lecture07" type="462c0819:PsiDirectoryNode" />
-              <item name="L7_02_Funny-login-form" type="462c0819:PsiDirectoryNode" />
               <item name="Requirements-and-Resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Front-End-Dev" type="b2602c69:ProjectViewProjectNode" />
               <item name="Front-End-Dev" type="462c0819:PsiDirectoryNode" />
               <item name="Lecture07" type="462c0819:PsiDirectoryNode" />
-              <item name="L7_02_Funny-login-form" type="462c0819:PsiDirectoryNode" />
+              <item name="L7_01_Input-addon-flexbox" type="462c0819:PsiDirectoryNode" />
               <item name="Requirements-and-Resources" type="462c0819:PsiDirectoryNode" />
               <item name="Screenshots" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -243,7 +226,35 @@
               <item name="Front-End-Dev" type="b2602c69:ProjectViewProjectNode" />
               <item name="Front-End-Dev" type="462c0819:PsiDirectoryNode" />
               <item name="Lecture07" type="462c0819:PsiDirectoryNode" />
-              <item name="L7_02_Funny-login-form" type="462c0819:PsiDirectoryNode" />
+              <item name="L7_01_Input-addon-flexbox" type="462c0819:PsiDirectoryNode" />
+              <item name="Solution" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Front-End-Dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Front-End-Dev" type="462c0819:PsiDirectoryNode" />
+              <item name="Lecture07" type="462c0819:PsiDirectoryNode" />
+              <item name="L7_04_Forms-CSS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Front-End-Dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Front-End-Dev" type="462c0819:PsiDirectoryNode" />
+              <item name="Lecture07" type="462c0819:PsiDirectoryNode" />
+              <item name="L7_04_Forms-CSS" type="462c0819:PsiDirectoryNode" />
+              <item name="Requirements-and-Resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Front-End-Dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Front-End-Dev" type="462c0819:PsiDirectoryNode" />
+              <item name="Lecture07" type="462c0819:PsiDirectoryNode" />
+              <item name="L7_04_Forms-CSS" type="462c0819:PsiDirectoryNode" />
+              <item name="Requirements-and-Resources" type="462c0819:PsiDirectoryNode" />
+              <item name="Screenshots" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Front-End-Dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Front-End-Dev" type="462c0819:PsiDirectoryNode" />
+              <item name="Lecture07" type="462c0819:PsiDirectoryNode" />
+              <item name="L7_04_Forms-CSS" type="462c0819:PsiDirectoryNode" />
               <item name="Solution" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -324,6 +335,7 @@
       <workItem from="1550691551021" duration="36000" />
       <workItem from="1550899323709" duration="1970000" />
       <workItem from="1550945829907" duration="3049000" />
+      <workItem from="1551027452792" duration="4661000" />
     </task>
     <task id="LOCAL-00001" summary="testing committing via webstorm">
       <created>1548254613404</created>
@@ -364,15 +376,15 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111214000" />
+    <option name="totallyTimeSpent" value="115875000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19731943" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="TypeScript" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3294893" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -385,6 +397,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.12458472" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.3289256" />
+      <window_info anchor="bottom" id="TypeScript" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -419,80 +432,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="updated solution to problem from homework" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lecture06/L6_04_BoxModel-Calendar/Requirements-and-Resources/screenshot.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture06/L6_04_BoxModel-Calendar/Requirements-and-Resources/Requirements.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture06/L6_04_BoxModel-Calendar/Requirements-and-Resources/text.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="8" selection-start-line="2" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture06/L6_04_BoxModel-Calendar/Solution/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture06/L6_04_BoxModel-Calendar/Solution/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture06/L6_05_Navigation-flexbox/Requirements-and-Resources/text.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="22" selection-start-line="13" selection-end-line="13" selection-end-column="322" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture06/L6_05_Navigation-flexbox/Requirements-and-Resources/Requirements.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="289">
-            <caret line="17" column="72" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="72" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture06/L6_05_Navigation-flexbox/Requirements-and-Resources/Screenshot.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture06/L6_05_Navigation-flexbox/Solution/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture06/L6_05_Navigation-flexbox/Solution/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture06/L6_06_Photo-gallery-flexbox/Requirements-and-Resources/Requirements.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lecture06/L6_06_Photo-gallery-flexbox/Requirements-and-Resources/screenshot.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -666,10 +605,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture07/L7_01_Input-addon-flexbox/Requirements-and-Resources/Screenshots/hover.png">
+    <entry file="file://$PROJECT_DIR$/Lecture07/L7_02_Funny-login-form/Solution/styles.ts" />
+    <entry file="file://$PROJECT_DIR$/Lecture07/L7_02_Funny-login-form/Requirements-and-Resources/Screenshots/focus.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture07/L7_01_Input-addon-flexbox/Requirements-and-Resources/Screenshots/screenshot.png">
+    <entry file="file://$PROJECT_DIR$/Lecture07/L7_02_Funny-login-form/Requirements-and-Resources/Requirements.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="323">
+            <caret line="19" column="44" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="44" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture07/L7_02_Funny-login-form/Requirements-and-Resources/Screenshots/hover.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture07/L7_02_Funny-login-form/Requirements-and-Resources/Screenshots/screenshot.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Lecture06/L6_11_Cards-with-csscolumns-and-flexbox/Requirements-and-Resources/screenshot.jpg">
@@ -682,57 +635,98 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture07/L7_02_Funny-login-form/Requirements-and-Resources/Screenshots/hover.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture07/L7_02_Funny-login-form/Requirements-and-Resources/Screenshots/focus.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture07/L7_02_Funny-login-form/Solution/styles.ts">
+    <entry file="file://$PROJECT_DIR$/Lecture07/L7_02_Funny-login-form/Solution/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-line="2" selection-end-column="1" />
+          <caret selection-end-line="21" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture07/L7_02_Funny-login-form/Solution/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture07/L7_03_Customer-details-form/Requirements-and-Resources/screenshot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture07/L7_03_Customer-details-form/Requirements-and-Resources/Requirements.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="15" column="44" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="44" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture07/L7_03_Customer-details-form/Solution/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture07/L7_03_Customer-details-form/Solution/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="29" column="44" lean-forward="true" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture07/L7_04_Forms-CSS/Requirements-and-Resources/Screenshots/screenshot-tablet.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture07/L7_01_Input-addon-flexbox/Requirements-and-Resources/Screenshots/hover.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture07/L7_01_Input-addon-flexbox/Requirements-and-Resources/Screenshots/screenshot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture07/L7_01_Input-addon-flexbox/Solution/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="22" selection-end-line="22" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lecture07/L7_01_Input-addon-flexbox/Solution/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="42" lean-forward="true" selection-end-line="1" />
+          <caret column="42" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture07/L7_01_Input-addon-flexbox/Solution/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture07/L7_02_Funny-login-form/Requirements-and-Resources/Screenshots/screenshot.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture07/L7_02_Funny-login-form/Requirements-and-Resources/Requirements.md">
+    <entry file="file://$PROJECT_DIR$/Lecture07/L7_04_Forms-CSS/Requirements-and-Resources/Requirements.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="323">
-            <caret line="19" column="44" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="44" />
-          </first_editor>
+          <first_editor />
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture07/L7_02_Funny-login-form/Solution/styles.css">
+    <entry file="file://$PROJECT_DIR$/Lecture07/L7_04_Forms-CSS/Requirements-and-Resources/Screenshots/screenshot-desktop.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture07/L7_04_Forms-CSS/Requirements-and-Resources/Screenshots/screenshot-laptop.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture07/L7_04_Forms-CSS/Requirements-and-Resources/Screenshots/screenshot-phone.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture07/L7_04_Forms-CSS/Solution/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="39" lean-forward="true" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lecture07/L7_02_Funny-login-form/Solution/index.html">
+    <entry file="file://$PROJECT_DIR$/Lecture07/L7_04_Forms-CSS/Solution/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        <state relative-caret-position="85">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
         </state>
       </provider>
     </entry>
