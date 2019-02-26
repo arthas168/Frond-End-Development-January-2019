@@ -1,0 +1,51 @@
+@import url('https://use.fontawesome.com/releases/v5.0.9/css/all.css');
+
+
+html {
+    font-family: Montserat, sans-serif;
+    line-height: 1.2;
+    color: darkred;
+}
+
+body {
+    display: flex;
+    flex-direction: row;
+}
+
+.gallery-container {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 45rem;
+    margin-left: 10rem;
+    margin-top: 3rem;
+}
+
+.text{
+    margin-top: 3rem;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 0.75rem;
+    border-color: lightgrey;
+
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.card > {
+    flex-basis: 0;
+}
+
+.card img {
+    border-radius: 0.60rem;
+}
+
+.card p {
+    margin: 1.5rem;
+}
