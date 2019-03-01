@@ -12,11 +12,38 @@
     </header>
     <div class="main">
         <div class="card">
-            <img src="../img/travel.png" height="169" width="300" alt="customer"/></div>
-        <p class="info">Book your ticket NOW!</p>
-        <p class="subinfo">Start saving straight away with our special online rates.</p>
-        <div class="info">
+            <img src="../img/travel.png" height="169" width="300" alt="customer"/>
+            <p class="infobookticketsnow">Book your ticket NOW!</p>
+            <p class="subinfo">Start saving straight away with our special online rates.</p>
+        </div>
 
+        <div class="info">
+            <select name="airportsList" class="airportsList">
+                <option value="malpensa">Malpensa</option>
+                <option value="linate">Linate</option>
+                <option value="bergamo">Bergamo</option>
+            </select>
+            <div class="timeoptions">
+                <span>
+                    <label for="entry">Entry</label>
+                    <label for="timeEnd">Time</label>
+
+                </span>
+                <span>
+                     <input type="date" id="entry" name="trip-start">
+                    <input type="time" id="timeStart" name="trip-start">
+                </span>
+                <span>
+                    <label for="exit">Exit</label>
+                    <label for="timeStart">Time</label>
+                    </span>
+                <span>
+                    <input type="date" id="exit" name="trip-start">
+
+                    <input type="time" id="timeEnd" name="trip-start">
+                    </span>
+            </div>
+            <input type="submit" class="button" value="Search">
         </div>
     </div>
 </div>

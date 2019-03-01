@@ -19,6 +19,84 @@
     padding: 1rem;;
 }
 
-.info{
+.main{
+    display:flex;
+    flex-direction: row;
+}
+
+.card{
+    flex-grow:1;
+    border-right: solid black 1px;
+    max-width: 20em;
+
+}
+
+.infobookticketsnow{
     font-size:14px;
+    text-align: center;
+}
+
+.subinfo{
+    font-size: 12px;
+    margin-left: 1rem;
+}
+
+.airportsList {
+    width:28rem;
+    margin-left: 1.2rem;
+    margin-top: 1rem;
+    border-radius: .5rem;
+    text-align: center;
+    padding: .2rem;
+    font-size:16px;
+    box-shadow: none;
+    border: .5px solid lightgrey;
+    background: white;
+}
+
+.timeoptions{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    max-width: 25rem;
+    margin-top: .8rem;
+}
+
+.timeoptions span{
+    margin-left: 1rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.timeoptions span input {
+    width: 7rem;
+    border-radius: .5rem;
+    box-shadow: none;
+    border: .5px solid lightgrey;
+    padding: .2rem;
+    margin-top:.2rem;
+}
+
+.timeoptions span > *{
+    margin-bottom: 1rem;
+}
+
+.timeoptions span label{
+    margin-top: .5rem;
+    margin-bottom: 1.2rem;
+    font-size: 14px;
+}
+
+.button{
+    margin-left: 12.1rem;
+    margin-top:.75rem;
+    border-radius: .5rem;
+    background: indianred;
+    color:white;
+    padding:.5rem;
+    border:none;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 16px;
+    cursor: pointer;
 }
