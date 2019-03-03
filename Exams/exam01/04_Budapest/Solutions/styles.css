@@ -1,0 +1,84 @@
+@import url('https://use.fontawesome.com/releases/v5.0.9/css/all.css');
+
+html {
+    font-family: Helvetica, sans-serif;
+}
+
+.main-navigation {
+    display: flex;
+    flex-direction: row;
+    margin-left: 48rem;
+}
+
+
+.main-navigation span {
+    display: flex;
+    flex-direction: column;
+    margin: 1rem;
+    font-size: 12px;
+}
+
+.main-navigation span i {
+    align-self: center;
+    margin-bottom: 0.5rem;
+    font-size: 18px;
+}
+
+.sub-navigation {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 38rem;
+    margin-right: 10rem;
+    margin-top: .5rem;
+    margin-bottom: .75rem
+}
+
+.sub-navigation span {
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+.background-image {
+    background-image: url(../img/slider.jpg);
+    background-size: cover;
+    height: 40rem;
+    width: 83.6rem;
+    overflow: hidden;
+    max-height: 30rem;
+}
+
+main {
+    background: #B18904;
+}
+
+.budapest-card {
+    justify-content: space-around;
+    margin-left: 29rem;
+    color: white;
+    margin-top: 1.5rem;
+    padding-bottom: 2rem;
+}
+
+.budapest-card h2{
+    text-transform: uppercase;
+}
+
+
+.budapest-card .title{
+    margin-left: 6rem;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.budapest-card .button{
+    margin-left: 6rem;
+    font-weight: bold;
+    font-size: 18px;
+    border: 2px solid white;
+    padding: .5rem;
+    margin-top: .5rem;
+    background: #B18904;
+    color:white;
+}
+
