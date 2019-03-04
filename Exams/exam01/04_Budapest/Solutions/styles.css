@@ -8,6 +8,7 @@ html {
     display: flex;
     flex-direction: row;
     margin-left: 48rem;
+    position:relative;
 }
 
 
@@ -16,6 +17,13 @@ html {
     flex-direction: column;
     margin: 1rem;
     font-size: 12px;
+    padding:1rem;
+}
+
+.main-navigation span:hover{
+    cursor:pointer;
+    background: #B2900A;
+    color: white;
 }
 
 .main-navigation span i {
@@ -28,10 +36,40 @@ html {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    margin-left: 38rem;
-    margin-right: 10rem;
+    margin-left: 42rem;
+    margin-right: 3rem;
     margin-top: .5rem;
-    margin-bottom: .75rem
+    margin-bottom: .75rem;
+    position:relative;
+}
+
+.sub-navigation span{
+    padding: .5rem;
+}
+
+.sub-navigation span:hover{
+    cursor:pointer;
+    background: #B2900A;
+    color: white;
+}
+
+.logo{
+    position: absolute;
+    height: 145px;
+    width: 185px;
+    background-image: linear-gradient(to top, #947133, #a37f35, #b18d37, #bf9c38, #cdab3a);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 4rem;
+    top: 3rem;
+    box-shadow: lightgrey;
+    z-index: 100;
+}
+
+.logo img{
+    max-width:100%;
+    max-height:100%;
 }
 
 .sub-navigation span {
@@ -46,6 +84,36 @@ html {
     width: 83.6rem;
     overflow: hidden;
     max-height: 30rem;
+    position:relative;
+}
+
+.shuttle-info{
+    position:absolute;
+    background: rgba(0, 0, 0, 0.6);
+    color:white;
+    padding: 1.5rem;
+    padding-right:2rem;
+    margin-left: 4rem;
+    top: 21rem;
+}
+
+.shuttle-info .button{
+    font-weight: bold;
+    font-size: 18px;
+    border: 2px solid white;
+    padding: .5rem;
+    background: none;
+    color: #906611;
+}
+
+.shuttle-info .button:hover{
+    font-weight: bold;
+    font-size: 18px;
+    border: 2px solid white;
+    padding: .5rem;
+    background: white;
+    color: #906611;
+    cursor:pointer;
 }
 
 main {
@@ -54,31 +122,101 @@ main {
 
 .budapest-card {
     justify-content: space-around;
-    margin-left: 29rem;
+    margin-left: 27rem;
     color: white;
     margin-top: 1.5rem;
     padding-bottom: 2rem;
 }
 
-.budapest-card h2{
+.budapest-card h2 {
     text-transform: uppercase;
 }
 
 
-.budapest-card .title{
+.budapest-card .title {
     margin-left: 6rem;
     font-weight: bold;
     font-size: 22px;
 }
 
-.budapest-card .button{
-    margin-left: 6rem;
+.budapest-card .button {
+    margin-left: 10rem;
     font-weight: bold;
     font-size: 18px;
     border: 2px solid white;
     padding: .5rem;
     margin-top: .5rem;
     background: #B18904;
+    color: white;
+}
+
+.circles {
+    background: white;
+    padding-top: .1rem;
+    padding-bottom: 3rem;
+}
+
+.circles p {
+    text-align: center;
+}
+
+.circles p:nth-child(1) {
+    font-size: 45px;
+}
+
+.circles p:nth-child(2) {
+    font-size: 20px;
+    margin-bottom: 2rem;
+}
+
+.pics {
+    margin-left: 12rem;
+}
+
+.pics img {
+    border-radius: 50%;
+    border: 1.2px solid black;
+    padding: 0.2rem;
+}
+
+.captions {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    font-size: 14px;
+    margin-left: 12rem;
+    justify-content: space-between;
+    margin-right: 8rem;
+    margin-top: .5rem;
+    text-align: center;
+}
+
+.newsletter{
+    display:flex;
+    padding-top: .75rem;
+    position: relative;
+}
+
+.newsletter .newsletterbtn {
+    font-weight: bold;
+    font-size: 18px;
+    border: 2px solid white;
+    padding: .5rem;
+    background: #B18904;
+    color: white;
+    margin-bottom: .5rem;
+    margin-left: 75rem;
+}
+
+.newsletterleft{
+    position: absolute;
+    bottom: 0;
+    padding-bottom: .3rem;
+    padding-left: 1.5rem;
     color:white;
 }
 
+footer p {
+    text-align: center;
+    font-size: 14px;
+}
