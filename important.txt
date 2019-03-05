@@ -1,0 +1,11 @@
+margin: 0 auto;
+
+:after element (or increase width) and then overflow:hidden to crop pictures
+
+html {
+    box-style: border-box
+}
+
+* {
+    box-style: inherit;
+}

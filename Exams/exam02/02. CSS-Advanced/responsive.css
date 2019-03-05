@@ -1,4 +1,5 @@
 @media (max-width: 600px) {
+
     main{
         width: 100%;
     }
@@ -93,6 +94,16 @@
         margin-left: 15rem;
     }
 
+    body > main > section:nth-child(4) > article:nth-child(1){
+        margin: 0 auto;
+        width: 65%
+    }
 
+
+
+    body > main > section:nth-child(4) > article:nth-child(2){
+        margin-left: 13rem;
+        width: 100%
+    }
 
 }
