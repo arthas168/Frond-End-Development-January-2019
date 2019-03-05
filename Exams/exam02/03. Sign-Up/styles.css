@@ -1,0 +1,66 @@
+body{
+    background: #E9E9E9;
+}
+
+.container {
+    display:flex;
+    justify-content: center;
+    vertical-align: center;
+    margin-top: 10rem;
+}
+
+.login-form form{
+    display: flex;
+    flex-direction: column;
+    background: white;
+    box-shadow: 3px 3px 3px 3px lightgrey;
+}
+
+.image{
+    box-shadow: 3px 3px 3px 3px lightgrey;
+}
+
+.image img{
+    height: 350px;
+}
+
+.login-form form label{
+    padding: .5rem;
+}
+
+.login-form form label input{
+    border:none;
+    border-bottom: 1px solid lightgrey;
+    margin-top:.75rem;
+    padding:.25rem;
+}
+
+span{
+    font-size: .65rem;
+    color: lightgrey;
+}
+
+.btns{
+    margin-top:2rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.btns input:first-child{
+    padding:.5rem;
+    border-radius: .75rem;
+    background: black;
+    color:white;
+    border: none;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    cursor: pointer;
+}
+
+.btns input:nth-child(2){
+    color:grey;
+    border:none;
+    text-decoration: underline;
+    cursor: pointer;
+}
+

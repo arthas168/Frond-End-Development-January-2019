@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
-
 body,
 textarea::placeholder {
     font-family: 'Open Sans', sans-serif;
@@ -17,7 +16,7 @@ main {
     rgba(29, 63, 97, 0.2)),
     url(img/spot-bg-01.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100%;
     clip-path: polygon(0px 0px, 100% 0px, 100% 84%, 0px 100%);
 
 }
