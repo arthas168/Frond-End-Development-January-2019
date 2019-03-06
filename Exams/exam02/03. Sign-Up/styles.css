@@ -1,3 +1,5 @@
+@import url('https://use.fontawesome.com/releases/v5.0.9/css/all.css');
+
 body{
     background: #E9E9E9;
 }
@@ -6,7 +8,7 @@ body{
     display:flex;
     justify-content: center;
     vertical-align: center;
-    margin-top: 10rem;
+    margin-top: 8rem;
 }
 
 .login-form form{
@@ -14,14 +16,30 @@ body{
     flex-direction: column;
     background: white;
     box-shadow: 3px 3px 3px 3px lightgrey;
+    padding: 1.5rem;
 }
 
 .image{
+    position:relative;
     box-shadow: 3px 3px 3px 3px lightgrey;
+    width: 21rem;
+    background: #010101;
+}
+
+.image .overlay{
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: black;
+    opacity: 0.7;
+    top: 0;
 }
 
 .image img{
-    height: 350px;
+   object-fit: cover;
+    width: 336px;
+    height: 388px;
 }
 
 .login-form form label{
@@ -64,3 +82,40 @@ span{
     cursor: pointer;
 }
 
+.icons{
+    position: absolute;
+    color:white;
+    bottom: 1.6rem;
+    right: 9rem;
+}
+
+.softuni{
+    position: absolute;
+    color:white;
+    top: .75rem;
+    left: 1.75rem;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.centered-text{
+    position: absolute;
+    color:white;
+    top: 9rem;
+    text-align: center;
+    left: 1.3rem;
+}
+
+.centered-text p:first-child{
+   font-size:24px;
+    margin-bottom: .5rem;
+}
+
+.centered-text p:nth-child(2){
+    margin-top:0;
+    font-size: 18px;
+}
+
+#decline{
+    background: white;
+}
