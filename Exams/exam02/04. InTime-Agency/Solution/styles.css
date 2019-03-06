@@ -1,0 +1,226 @@
+@import url('https://use.fontawesome.com/releases/v5.0.9/css/all.css');
+
+html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Helvetica, sans-serif;
+}
+
+* {
+    box-sizing: inherit;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 1rem;
+}
+
+header ul {
+    display: flex;
+    list-style: none;
+}
+
+header ul li {
+    margin: 1rem;
+    margin-top: 0;
+    padding-bottom: .25rem;
+}
+
+header p {
+    font-size: 24px;
+    margin-top: 1rem;
+}
+
+header span {
+    color: dodgerblue;
+}
+
+header ul li:first-child {
+    border-bottom: 2px solid dodgerblue;
+}
+
+.image {
+    width: 84rem;
+    overflow: hidden;
+}
+
+.image img {
+    height: 423px;
+    width: 1400px;
+
+}
+
+.welcomer {
+    margin: 0 auto;
+    width: 80%;
+    text-align: center;
+}
+
+.welcomer p:first-child, .services > p {
+    font-size: 26px;
+}
+
+.welcomer span {
+    border-bottom: 2px solid dodgerblue;
+    padding-bottom: .25rem;
+}
+
+.button {
+    margin-top: .5rem;
+    padding: .5rem 1.2rem;
+    border-radius: 1rem;
+    background: #484848;
+    color: white;
+    border: none;
+    margin-bottom: 2rem;
+}
+
+.services {
+    background: lightgrey;
+    text-align: center;
+    padding-top: .5rem;
+    margin-top: 2rem;
+    padding-bottom: 1rem;
+    margin-bottom: 0;
+}
+
+.services ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+
+
+.services ul li {
+    background: white;
+    display: flex;
+    flex-direction: column;
+    margin: 1rem;
+    width: 310px;
+}
+
+.services ul li img {
+    width: 310px;
+    height: 204px;
+    margin: 0 0;
+    padding: 0;
+}
+
+.services span {
+    border-bottom: 2px solid #484848;
+    padding-bottom: .25rem;
+}
+
+.service-name {
+    font-size: 20px;
+    margin-bottom: .5rem;
+}
+
+.lipsum {
+    font-size: 12px;
+    padding: 0 1.5rem;
+}
+
+body > main > section.services > ul > li > input {
+    padding-right: 0;
+    padding-left: 0;
+    margin: .5rem 6.3rem;
+    border-radius: .25rem;
+    margin-bottom: 2rem;
+}
+
+.newsletter {
+    margin-top: 0;
+    background: #3A3F43;
+    text-align: center;
+    padding-top: 2rem;
+    color: white;
+    padding-bottom: 3rem;
+}
+
+.newsletter span {
+    border-bottom: 2px solid white;
+}
+
+.newsletter p:first-child {
+    margin-top: 0;
+    font-size: 26px;
+}
+
+.newsletter input:first-child {
+    background: #555A5E;
+    border: none;
+    width: 30rem;
+    padding: .70rem;
+    border-radius: .25rem;
+    color: lightgrey;
+}
+
+.newsletter input:nth-child(2) {
+    margin-top: .5rem;
+    padding-right: 2.5rem;
+    padding-left: 2.5rem;
+    padding-top: .5rem;
+    padding-bottom: .7rem;
+    border-radius: .25rem;
+    background: #6FC2FD;
+    color: white;
+    border: none;
+    margin-bottom: 2rem;
+    font-size: 18px;
+}
+
+footer section:first-child {
+    background: #303539;
+    color: white;
+}
+
+.footer-ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 90%;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+body > footer > section > ul > li:nth-child(4) > p:nth-child(2) i {
+    margin-right: .5rem;
+}
+
+body > footer > section > ul > li:nth-child(4) > p:nth-child(2) {
+    margin-left: .5rem;
+}
+
+.get-started {
+    position: absolute;
+    background: rgba(0, 0, 0, 0.6);
+    color: white;
+    padding: 0;
+    top: 16rem;
+    margin: 0;
+    left: 12rem;
+}
+
+.get-started p {
+    font-size: 32px;
+    margin: 0;
+    padding: 1rem;
+}
+
+.get-started .button {
+    background: #008CBA;
+    font-size: 22px;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    margin-left: 2rem;
+}
