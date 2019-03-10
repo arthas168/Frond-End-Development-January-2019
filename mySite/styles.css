@@ -1,4 +1,54 @@
+html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, sans-serif;
+}
+
+* {
+    box-sizing: inherit;
+}
+
+header {
+    padding: .75rem;
+    align-items: center;
+}
+
+header ul {
+    list-style: none;
+    display: flex;
+    width: 45%;
+    margin-left: 21.2rem;
+}
+
+header li {
+    padding: 1rem;
+    background: white;
+    border: 2px solid black;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    width: 30%;
+    text-align: center;
+}
+
+.btns-header li:hover {
+    background: black;
+    border: 2px solid black;
+    color: white;
+    cursor: pointer;
+}
+
 body {
     background: url(./images/viktor-forgacs-1358198-unsplash.jpg) no-repeat center center fixed;
     background-size: cover;
+}
+
+section {
+    box-shadow: lightgrey;
+}
+
+section img {
+    width: 60%;
+    height: 60%;
+    margin-left: 16.65rem;
 }
