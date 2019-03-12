@@ -1,0 +1,88 @@
+@media (max-width: 1100px){
+    html{
+        margin:0;
+        padding:0;
+    }
+
+    body{
+        width: 100%;
+    }
+
+    body > main > section.team-description > div > ul{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        margin: 0 auto;
+    }
+
+    body > main > section.team-description > div > ul> li{
+       padding: 0 2rem;
+    }
+
+
+    .blog-list{
+        display: flex;
+        flex-wrap: wrap;
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    body > main > section.blog-news > ul > li{
+        margin-bottom: 2rem;
+    }
+
+}
+
+@media (max-width: 800px){
+    body{
+        background: lightskyblue;
+    }
+
+    body > header > nav > img{
+        margin-bottom: .75rem;
+    }
+
+    body > header > nav{
+        display: flex;
+        flex-direction: column;
+    }
+
+    body > header > nav ul{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    body > header > nav ul li{
+       margin: .2rem 0;
+    }
+
+    .header-title {
+        color: white;
+        margin: 0 auto;
+        text-align: center;
+        padding: 1em 0;
+    }
+
+    body > main > section.team-description > div > ul{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        margin: 0 auto;
+    }
+
+    body > main > section.team-description > div > ul> li{
+        padding: 0;
+    }
+
+    body > main > section.choose-us > ul{
+        display: flex;
+        flex-direction: column;
+    }
+
+    body > main > section.choose-us > ul li{
+
+        width: 60%;
+        margin: 0 auto;
+    }
+}

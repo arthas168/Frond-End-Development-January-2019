@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css?family=Courgette');
+@import url('https://use.fontawesome.com/releases/v5.0.9/css/all.css');
+
+html {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Courgette', cursive;
+}
+
+* {
+    box-sizing: inherit;
+}
+
+body{
+    background: #F5F5F5;
+}
+
+header{
+    padding:2rem;
+    padding-bottom: 0;
+}
+
+.main-title{
+    font-size:48px;
+    margin-left: 30rem;
+}
+
+.sub-title{
+    color:red;
+    font-size: 26px;
+    margin-left: 42rem;
+}
+
+main ul {
+    list-style: none;
+    display: flex;
+    padding-left:8rem;
+}
+
+main ul li {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: white;
+    margin:1rem;
+    text-align: center;
+    border-radius: 1rem;
+}
+
+
+main ul li img{
+    width: 20rem;
+    height: 12rem;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+
+body > main > ul > li p:nth-child(2){
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 1rem;
+    margin-bottom: .5rem;
+}
+
+body > main > ul > li hr{
+    margin-top: 0.25rem;
+    width: 17rem;
+    border:none;
+    height: 1.2px;
+    background: red;
+}
+
+body main ul li p i{
+    color:red;
+}
+
+body > main > ul > li:nth-child(1) > p:nth-child(4){
+    margin-bottom: 2.25rem;
+}

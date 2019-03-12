@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+@import url('https://use.fontawesome.com/releases/v5.0.9/css/all.css');
+
+
+html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Source Sans Pro', sans-serif;;
+}
+
+* {
+    box-sizing: inherit;
+}
+
+.container {
+    width: 60%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 3rem;
+    border-radius: .5rem;
+
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+form label {
+    padding: .5rem;
+    margin-left: -.5rem;
+    color: #B2A6AD;
+    position: relative;
+}
+
+.constraints {
+    color: #D5D4D7;
+}
+
+
+form label input {
+    border: 1px solid #C2E2EB;
+    margin-top: .75rem;
+    padding: .4rem;
+    border-radius: .25rem;
+    color: #767678;
+    width: 22.5rem;
+    padding-left: 2rem;
+}
+
+.container p {
+    margin: 0;
+    font-size: 42px;
+    font-weight: bold;
+    color: #44484E;
+}
+
+hr {
+    margin-top: 0.25rem;
+    width: 23rem;
+    border: none;
+    height: 2px;
+    background: #0179CE;
+    margin-bottom: .5rem;
+}
+
+.star {
+    color: red;
+}
+
+.btn {
+    margin-top: .5rem;
+    padding: .5rem 8.3rem;
+    background: #0179CE;
+    color: white;
+    border: none;
+    border-radius: .25rem;
+    font-size: 18px;
+}
+
+body > div > form > label > span {
+    margin-left: -.75rem;
+}
+
+.icon {
+    position: absolute;
+    left: 26px;
+    top: 45px;
+    display: block;
+}
+
+.icon i{
+    color:#5C5658;
+}
+
+.line {
+    color: 	#848081;
+}
+
+body > div > form > label:nth-child(3) > span.icon > i{
+    margin-right: 0.35rem;
+}
+
+body > div > form > label:nth-child(4) > span.icon > i{
+    margin-right: 0.2rem;
+}

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sign Up Form</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="container">
+
+    <p>Form</p>
+    <hr>
+    <form>
+        <label for="name"><span><span class="star">* </span>Name:</span><br>
+            <input type="text" placeholder="Dario Petrov" id="name">
+            <span class="icon"><i class="fas fa-user"></i><span class="line"> |</span></span>
+        </label>
+
+        <label for="email"> <span><span class="star">* </span>    Email:</span><br>
+            <input type="email" placeholder="dario@email.com" id="email">
+            <span class="icon"><i class="fas fa-envelope"></i><span class="line"> |</span></span>
+        </label>
+
+        <label for="phone-number"> <span><span class="star">* </span>Phone number:</span><br>
+            <input type="text" placeholder="+359 885 445 445" id="phone-number">
+            <span class="icon"><i class="fas fa-mobile"></i><span class="line"> |</span></span>
+        </label>
+
+        <label for="password"> <span><span class="star">* </span>Password
+            <span class="constraints">(minimum 6 charactes):</span></span><br>
+            <input type="text" id="password" placeholder="  ********">
+            <span class="icon"><i class="fas fa-lock"></i><span class="line"> |</span></span>
+        </label>
+        <input type="submit" class="btn" value="Sign Up">
+    </form>
+</div>
+</body>
+</html>
